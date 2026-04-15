@@ -7,18 +7,22 @@ The system helps in early identification of plant diseases, enabling farmers and
 
 .
 
-🚀 Key Features
-🔍 Real-time plant disease prediction from leaf images
-🧠 Built using Transfer Learning with pre-trained CNN models
-📊 High accuracy even with limited dataset
-🖼️ Image preprocessing and augmentation for better generalization
-🌐 Simple web interface using Streamlit 
-⚡ Fast inference for practical use cases
+## 🔍 Key Features
 
-Tech Stack
-Python 🐍
-TensorFlow / Keras
-Convolutional Neural Networks (CNN) Convolutional Neural Network
+- 🌿 Real-time plant disease prediction from leaf images  
+- 🧠 Built using Transfer Learning with pre-trained CNN models  
+- 📊 High accuracy even with a limited dataset  
+- 🖼️ Image preprocessing & augmentation for better generalization  
+- 🌐 Simple web interface using Streamlit  
+- ⚡ Fast inference for practical, real-world use cases  
+
+## 🛠️ Tech Stack
+
+- 🐍 Python  
+- 🧠 TensorFlow / Keras  
+- 📷 Convolutional Neural Networks (CNN)  
+- 🌐 Streamlit  
+- 🧪 NumPy, Pillow  
 
 📂 Dataset
 

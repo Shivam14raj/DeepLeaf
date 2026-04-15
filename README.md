@@ -1,9 +1,9 @@
-🌿 Plant Disease Detection using Deep Learning (Transfer Learning)
-📌 Overview
+### 🌿 Plant Disease Detection using Deep Learning (Transfer Learning)
+- 📌 Overview
 
-This project is a deep learning-based image classification system that detects plant diseases from leaf images. It leverages Transfer Learning to improve accuracy and reduce training time by using pre-trained convolutional models.
+- This project is a deep learning-based image classification system that detects plant diseases from leaf images. It leverages Transfer Learning to improve accuracy and reduce training time by using pre-trained convolutional models.
 
-The system helps in early identification of plant diseases, enabling farmers and agricultural stakeholders to take timely preventive actions and improve crop yield.
+- The system helps in early identification of plant diseases, enabling farmers and agricultural stakeholders to take timely preventive actions and improve crop yield.
 
 .
 

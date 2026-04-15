@@ -24,24 +24,24 @@ The system helps in early identification of plant diseases, enabling farmers and
 - 🌐 Streamlit  
 - 🧪 NumPy, Pillow  
 
-📂 Dataset
+## 📂 Dataset
 
 The model is trained on a publicly available plant leaf disease dataset containing images of healthy and diseased leaves across multiple plant categories.
 
-🔄 Workflow
-Data Collection
-Image Preprocessing & Augmentation
-Transfer Learning Model Selection
-Model Training & Fine-tuning
-Evaluation
-Deployment using Streamlit
+## 🔄 Workflow
+- Data Collection
+- Image Preprocessing & Augmentation
+- Transfer Learning Model Selection
+- Model Training & Fine-tuning
+- Evaluation
+- Deployment using Streamlit
 
-📊 Results
-Achieved high validation accuracy using transfer learning
-Improved generalization compared to training CNN from scratch
-Robust performance on unseen leaf images
+## 📊 Results
+- Achieved high validation accuracy using transfer learning
+- Improved generalization compared to training CNN from scratch
+- Robust performance on unseen leaf images
 
-🤝 Contribution
+## 🤝 Contribution
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
